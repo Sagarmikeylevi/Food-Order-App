@@ -6,6 +6,10 @@
   overflow: auto;
 }
 
+::-webkit-scrollbar {
+   width: 5px;
+}
+
 .total {
   display: flex;
   justify-content: space-between;
